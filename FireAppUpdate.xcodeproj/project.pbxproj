@@ -129,7 +129,7 @@
 				};
 			};
 			buildConfigurationList = 1D4B200A232A2D4500858F61 /* Build configuration list for PBXProject "FireAppUpdate" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
